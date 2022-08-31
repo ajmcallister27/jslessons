@@ -1,0 +1,2 @@
+# jslessons
+Teaching friends javascript
